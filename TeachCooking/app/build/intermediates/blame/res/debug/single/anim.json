@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\anim\\loading.xml"
+    }
+]

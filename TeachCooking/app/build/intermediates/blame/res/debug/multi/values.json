@@ -1,0 +1,5461 @@
+[
+    {
+        "outputFile": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endLine": 49,
+                    "endColumn": 19,
+                    "endOffset": 2606
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2611,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endLine": 61,
+                    "endColumn": 19,
+                    "endOffset": 3224
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3229,
+                    "endLine": 65,
+                    "endColumn": 19,
+                    "endOffset": 3422
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3427,
+                    "endLine": 73,
+                    "endColumn": 19,
+                    "endOffset": 3910
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3915,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 4598
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4603,
+                    "endLine": 97,
+                    "endColumn": 19,
+                    "endOffset": 5148
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5153,
+                    "endLine": 100,
+                    "endColumn": 16,
+                    "endOffset": 5220
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5225,
+                    "endLine": 113,
+                    "endColumn": 19,
+                    "endOffset": 5994
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5999,
+                    "endLine": 124,
+                    "endColumn": 19,
+                    "endOffset": 6447
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6452,
+                    "endLine": 138,
+                    "endColumn": 19,
+                    "endOffset": 7104
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7109,
+                    "endLine": 162,
+                    "endColumn": 19,
+                    "endOffset": 8787
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 8792,
+                    "endLine": 172,
+                    "endColumn": 19,
+                    "endOffset": 9289
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9294,
+                    "endLine": 175,
+                    "endColumn": 16,
+                    "endOffset": 9361
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9366,
+                    "endLine": 179,
+                    "endColumn": 19,
+                    "endOffset": 9519
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9524,
+                    "endLine": 181,
+                    "endColumn": 16,
+                    "endOffset": 9585
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9590,
+                    "endLine": 186,
+                    "endColumn": 19,
+                    "endOffset": 10656
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10661,
+                    "endLine": 210,
+                    "endColumn": 19,
+                    "endOffset": 11745
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 11750,
+                    "endLine": 222,
+                    "endColumn": 19,
+                    "endOffset": 12426
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 12431,
+                    "endLine": 225,
+                    "endColumn": 16,
+                    "endOffset": 12498
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 12503,
+                    "endLine": 228,
+                    "endColumn": 16,
+                    "endOffset": 12570
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 12575,
+                    "endLine": 240,
+                    "endColumn": 19,
+                    "endOffset": 13174
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 13179,
+                    "endLine": 250,
+                    "endColumn": 19,
+                    "endOffset": 13827
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 13832,
+                    "endLine": 264,
+                    "endColumn": 19,
+                    "endOffset": 16585
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 16590,
+                    "endLine": 273,
+                    "endColumn": 19,
+                    "endOffset": 17008
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 17013,
+                    "endLine": 278,
+                    "endColumn": 19,
+                    "endOffset": 17135
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 17140,
+                    "endColumn": 41,
+                    "endOffset": 17177
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 17182,
+                    "endColumn": 41,
+                    "endOffset": 17219
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 17224,
+                    "endColumn": 45,
+                    "endOffset": 17265
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 17270,
+                    "endColumn": 44,
+                    "endOffset": 17310
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 17315,
+                    "endColumn": 46,
+                    "endOffset": 17357
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 17362,
+                    "endColumn": 43,
+                    "endOffset": 17401
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 17406,
+                    "endColumn": 47,
+                    "endOffset": 17449
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 17454,
+                    "endColumn": 45,
+                    "endOffset": 17495
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 17500,
+                    "endColumn": 40,
+                    "endOffset": 17536
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 17541,
+                    "endColumn": 45,
+                    "endOffset": 17582
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 17587,
+                    "endColumn": 42,
+                    "endOffset": 17625
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 17630,
+                    "endColumn": 40,
+                    "endOffset": 17666
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 17671,
+                    "endColumn": 39,
+                    "endOffset": 17706
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 17711,
+                    "endColumn": 47,
+                    "endOffset": 17754
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 17759,
+                    "endColumn": 45,
+                    "endOffset": 17800
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 45,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 17805,
+                    "endColumn": 39,
+                    "endOffset": 17840
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 17845,
+                    "endColumn": 41,
+                    "endOffset": 17882
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 17887,
+                    "endColumn": 41,
+                    "endOffset": 17924
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 17929,
+                    "endColumn": 46,
+                    "endOffset": 17971
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 17976,
+                    "endColumn": 45,
+                    "endOffset": 18017
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 18022,
+                    "endColumn": 45,
+                    "endOffset": 18063
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 18068,
+                    "endColumn": 50,
+                    "endOffset": 18114
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 18119,
+                    "endColumn": 50,
+                    "endOffset": 18165
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 18170,
+                    "endColumn": 56,
+                    "endOffset": 18222
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 18227,
+                    "endColumn": 58,
+                    "endOffset": 18281
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 18286,
+                    "endColumn": 56,
+                    "endOffset": 18338
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 18343,
+                    "endColumn": 48,
+                    "endOffset": 18387
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 18392,
+                    "endColumn": 50,
+                    "endOffset": 18438
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 18443,
+                    "endColumn": 48,
+                    "endOffset": 18487
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 18492,
+                    "endColumn": 47,
+                    "endOffset": 18535
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 18540,
+                    "endColumn": 53,
+                    "endOffset": 18589
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 18594,
+                    "endColumn": 58,
+                    "endOffset": 18648
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 18653,
+                    "endColumn": 57,
+                    "endOffset": 18706
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 18711,
+                    "endColumn": 57,
+                    "endOffset": 18764
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 18769,
+                    "endColumn": 54,
+                    "endOffset": 18819
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 18824,
+                    "endColumn": 54,
+                    "endOffset": 18874
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 18879,
+                    "endColumn": 48,
+                    "endOffset": 18923
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 18928,
+                    "endColumn": 44,
+                    "endOffset": 18968
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 18973,
+                    "endColumn": 42,
+                    "endOffset": 19011
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 19016,
+                    "endColumn": 50,
+                    "endOffset": 19062
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 19067,
+                    "endColumn": 46,
+                    "endOffset": 19109
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 19114,
+                    "endColumn": 47,
+                    "endOffset": 19157
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 19162,
+                    "endColumn": 57,
+                    "endOffset": 19215
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 19220,
+                    "endColumn": 55,
+                    "endOffset": 19271
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 19276,
+                    "endColumn": 63,
+                    "endOffset": 19335
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 19340,
+                    "endColumn": 63,
+                    "endOffset": 19399
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 19404,
+                    "endColumn": 81,
+                    "endOffset": 19481
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 19486,
+                    "endColumn": 81,
+                    "endOffset": 19563
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 19568,
+                    "endColumn": 36,
+                    "endOffset": 19600
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 19605,
+                    "endColumn": 49,
+                    "endOffset": 19650
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 19655,
+                    "endColumn": 45,
+                    "endOffset": 19696
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 19701,
+                    "endColumn": 52,
+                    "endOffset": 19749
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 19754,
+                    "endColumn": 53,
+                    "endOffset": 19803
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 19808,
+                    "endColumn": 41,
+                    "endOffset": 19845
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 19850,
+                    "endColumn": 42,
+                    "endOffset": 19888
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 19893,
+                    "endColumn": 41,
+                    "endOffset": 19930
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 19935,
+                    "endColumn": 40,
+                    "endOffset": 19971
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 19976,
+                    "endColumn": 54,
+                    "endOffset": 20026
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 20031,
+                    "endColumn": 39,
+                    "endOffset": 20066
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 20071,
+                    "endLine": 339,
+                    "endColumn": 70,
+                    "endOffset": 20229
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 20234,
+                    "endColumn": 35,
+                    "endOffset": 20265
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 20270,
+                    "endColumn": 38,
+                    "endOffset": 20304
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 20309,
+                    "endColumn": 43,
+                    "endOffset": 20348
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 20353,
+                    "endLine": 344,
+                    "endColumn": 34,
+                    "endOffset": 20470
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 20475,
+                    "endColumn": 54,
+                    "endOffset": 20525
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 20530,
+                    "endColumn": 65,
+                    "endOffset": 20591
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 20596,
+                    "endColumn": 46,
+                    "endOffset": 20638
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 20643,
+                    "endColumn": 61,
+                    "endOffset": 20700
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 20705,
+                    "endColumn": 37,
+                    "endOffset": 20738
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 20743,
+                    "endColumn": 48,
+                    "endOffset": 20787
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 20792,
+                    "endColumn": 44,
+                    "endOffset": 20832
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 20837,
+                    "endColumn": 47,
+                    "endOffset": 20880
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 20885,
+                    "endColumn": 41,
+                    "endOffset": 20922
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 20927,
+                    "endColumn": 39,
+                    "endOffset": 20962
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 20967,
+                    "endColumn": 53,
+                    "endOffset": 21016
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 21021,
+                    "endColumn": 59,
+                    "endOffset": 21076
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 21081,
+                    "endColumn": 39,
+                    "endOffset": 21116
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 21121,
+                    "endColumn": 59,
+                    "endOffset": 21176
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 21181,
+                    "endColumn": 45,
+                    "endOffset": 21222
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 21227,
+                    "endColumn": 42,
+                    "endOffset": 21265
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 21270,
+                    "endColumn": 37,
+                    "endOffset": 21303
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 21308,
+                    "endColumn": 43,
+                    "endOffset": 21347
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 21352,
+                    "endColumn": 45,
+                    "endOffset": 21393
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 21398,
+                    "endColumn": 40,
+                    "endOffset": 21434
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 21439,
+                    "endColumn": 44,
+                    "endOffset": 21479
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 21484,
+                    "endColumn": 49,
+                    "endOffset": 21529
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 21534,
+                    "endColumn": 42,
+                    "endOffset": 21572
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 21577,
+                    "endColumn": 52,
+                    "endOffset": 21625
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 21630,
+                    "endColumn": 67,
+                    "endOffset": 21693
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 21698,
+                    "endColumn": 52,
+                    "endOffset": 21746
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 21751,
+                    "endColumn": 34,
+                    "endOffset": 21781
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 21786,
+                    "endColumn": 48,
+                    "endOffset": 21830
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 21835,
+                    "endColumn": 48,
+                    "endOffset": 21879
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 21884,
+                    "endColumn": 34,
+                    "endOffset": 21914
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 21919,
+                    "endColumn": 47,
+                    "endOffset": 21962
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 21967,
+                    "endColumn": 52,
+                    "endOffset": 22015
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 22020,
+                    "endColumn": 35,
+                    "endOffset": 22051
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 22056,
+                    "endColumn": 48,
+                    "endOffset": 22100
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 22105,
+                    "endColumn": 54,
+                    "endOffset": 22155
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 22160,
+                    "endColumn": 47,
+                    "endOffset": 22203
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 22208,
+                    "endColumn": 54,
+                    "endOffset": 22258
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 22263,
+                    "endColumn": 45,
+                    "endOffset": 22304
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 22309,
+                    "endColumn": 90,
+                    "endOffset": 22395
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 22400,
+                    "endColumn": 63,
+                    "endOffset": 22459
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 22464,
+                    "endColumn": 49,
+                    "endOffset": 22509
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 22514,
+                    "endColumn": 46,
+                    "endOffset": 22556
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 22561,
+                    "endColumn": 40,
+                    "endOffset": 22597
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 22602,
+                    "endColumn": 36,
+                    "endOffset": 22634
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 22639,
+                    "endColumn": 42,
+                    "endOffset": 22677
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 22682,
+                    "endColumn": 37,
+                    "endOffset": 22715
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 22720,
+                    "endColumn": 40,
+                    "endOffset": 22756
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 22761,
+                    "endColumn": 44,
+                    "endOffset": 22801
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 22806,
+                    "endColumn": 42,
+                    "endOffset": 22844
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 22849,
+                    "endColumn": 49,
+                    "endOffset": 22894
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 22899,
+                    "endColumn": 39,
+                    "endOffset": 22934
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 22939,
+                    "endColumn": 43,
+                    "endOffset": 22978
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 22983,
+                    "endColumn": 46,
+                    "endOffset": 23025
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 23030,
+                    "endColumn": 43,
+                    "endOffset": 23069
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 23074,
+                    "endColumn": 45,
+                    "endOffset": 23115
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 23120,
+                    "endColumn": 39,
+                    "endOffset": 23155
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 23160,
+                    "endColumn": 56,
+                    "endOffset": 23212
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 23217,
+                    "endColumn": 44,
+                    "endOffset": 23257
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 23262,
+                    "endColumn": 42,
+                    "endOffset": 23300
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 23305,
+                    "endColumn": 39,
+                    "endOffset": 23340
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 23345,
+                    "endColumn": 42,
+                    "endOffset": 23383
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 23388,
+                    "endColumn": 34,
+                    "endOffset": 23418
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 23423,
+                    "endColumn": 45,
+                    "endOffset": 23464
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 23469,
+                    "endColumn": 55,
+                    "endOffset": 23520
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 23525,
+                    "endColumn": 53,
+                    "endOffset": 23574
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 23579,
+                    "endColumn": 49,
+                    "endOffset": 23624
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 23629,
+                    "endColumn": 41,
+                    "endOffset": 23666
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 23671,
+                    "endColumn": 43,
+                    "endOffset": 23710
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 23715,
+                    "endColumn": 33,
+                    "endOffset": 23744
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 23749,
+                    "endColumn": 40,
+                    "endOffset": 23785
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 23790,
+                    "endColumn": 31,
+                    "endOffset": 23817
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 23822,
+                    "endColumn": 46,
+                    "endOffset": 23864
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 23869,
+                    "endColumn": 45,
+                    "endOffset": 23910
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 23915,
+                    "endColumn": 56,
+                    "endOffset": 23967
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 23972,
+                    "endColumn": 39,
+                    "endOffset": 24007
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 24012,
+                    "endColumn": 49,
+                    "endOffset": 24057
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 24062,
+                    "endColumn": 41,
+                    "endOffset": 24099
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 24104,
+                    "endColumn": 38,
+                    "endOffset": 24138
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 24143,
+                    "endColumn": 47,
+                    "endOffset": 24186
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 24191,
+                    "endColumn": 60,
+                    "endOffset": 24247
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 24252,
+                    "endColumn": 49,
+                    "endOffset": 24297
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 24302,
+                    "endColumn": 45,
+                    "endOffset": 24343
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 24348,
+                    "endColumn": 45,
+                    "endOffset": 24389
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 24394,
+                    "endColumn": 53,
+                    "endOffset": 24443
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 24448,
+                    "endColumn": 54,
+                    "endOffset": 24498
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 24503,
+                    "endColumn": 44,
+                    "endOffset": 24543
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 24548,
+                    "endColumn": 51,
+                    "endOffset": 24595
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 24600,
+                    "endColumn": 46,
+                    "endOffset": 24642
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 24647,
+                    "endColumn": 46,
+                    "endOffset": 24689
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 24694,
+                    "endColumn": 46,
+                    "endOffset": 24736
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 24741,
+                    "endColumn": 45,
+                    "endOffset": 24782
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 24787,
+                    "endColumn": 39,
+                    "endOffset": 24822
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 24827,
+                    "endColumn": 107,
+                    "endOffset": 24930
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 24935,
+                    "endColumn": 41,
+                    "endOffset": 24972
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 24977,
+                    "endColumn": 37,
+                    "endOffset": 25010
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 25015,
+                    "endColumn": 54,
+                    "endOffset": 25065
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 25070,
+                    "endColumn": 56,
+                    "endOffset": 25122
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 25127,
+                    "endColumn": 35,
+                    "endOffset": 25158
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 25163,
+                    "endColumn": 40,
+                    "endOffset": 25199
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 25204,
+                    "endColumn": 49,
+                    "endOffset": 25249
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 25254,
+                    "endColumn": 38,
+                    "endOffset": 25288
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 25293,
+                    "endColumn": 52,
+                    "endOffset": 25341
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 25346,
+                    "endColumn": 37,
+                    "endOffset": 25379
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 25384,
+                    "endColumn": 39,
+                    "endOffset": 25419
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 25424,
+                    "endColumn": 47,
+                    "endOffset": 25467
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 25472,
+                    "endColumn": 39,
+                    "endOffset": 25507
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 25512,
+                    "endColumn": 49,
+                    "endOffset": 25557
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 25562,
+                    "endColumn": 43,
+                    "endOffset": 25601
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 25606,
+                    "endColumn": 44,
+                    "endOffset": 25646
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 25651,
+                    "endColumn": 66,
+                    "endOffset": 25713
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 25718,
+                    "endColumn": 57,
+                    "endOffset": 25771
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 25776,
+                    "endColumn": 84,
+                    "endOffset": 25856
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 25861,
+                    "endColumn": 55,
+                    "endOffset": 25912
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 25917,
+                    "endColumn": 57,
+                    "endOffset": 25970
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 25975,
+                    "endColumn": 58,
+                    "endOffset": 26029
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 26034,
+                    "endColumn": 57,
+                    "endOffset": 26087
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 26092,
+                    "endColumn": 48,
+                    "endOffset": 26136
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 26141,
+                    "endColumn": 84,
+                    "endOffset": 26221
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 26226,
+                    "endColumn": 54,
+                    "endOffset": 26276
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 26281,
+                    "endColumn": 57,
+                    "endOffset": 26334
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 26339,
+                    "endColumn": 58,
+                    "endOffset": 26393
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 26398,
+                    "endColumn": 57,
+                    "endOffset": 26451
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 26456,
+                    "endColumn": 57,
+                    "endOffset": 26509
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 26514,
+                    "endColumn": 58,
+                    "endOffset": 26568
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 26573,
+                    "endColumn": 58,
+                    "endOffset": 26627
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 26632,
+                    "endColumn": 54,
+                    "endOffset": 26682
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 26687,
+                    "endColumn": 55,
+                    "endOffset": 26738
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 26743,
+                    "endColumn": 58,
+                    "endOffset": 26797
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 26802,
+                    "endColumn": 65,
+                    "endOffset": 26863
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 26868,
+                    "endColumn": 54,
+                    "endOffset": 26918
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 26923,
+                    "endColumn": 62,
+                    "endOffset": 26981
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 26986,
+                    "endColumn": 64,
+                    "endOffset": 27046
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 27051,
+                    "endColumn": 54,
+                    "endOffset": 27101
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 27106,
+                    "endColumn": 56,
+                    "endOffset": 27158
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 27163,
+                    "endColumn": 54,
+                    "endOffset": 27213
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 27218,
+                    "endColumn": 56,
+                    "endOffset": 27270
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 27275,
+                    "endColumn": 55,
+                    "endOffset": 27326
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 27331,
+                    "endColumn": 59,
+                    "endOffset": 27386
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 27391,
+                    "endColumn": 62,
+                    "endOffset": 27449
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 27454,
+                    "endColumn": 57,
+                    "endOffset": 27507
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 27512,
+                    "endColumn": 60,
+                    "endOffset": 27568
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 27573,
+                    "endColumn": 59,
+                    "endOffset": 27628
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 27633,
+                    "endColumn": 62,
+                    "endOffset": 27691
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 27696,
+                    "endColumn": 62,
+                    "endOffset": 27754
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 27759,
+                    "endColumn": 68,
+                    "endOffset": 27823
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 27828,
+                    "endColumn": 58,
+                    "endOffset": 27882
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 27887,
+                    "endColumn": 59,
+                    "endOffset": 27942
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 27947,
+                    "endColumn": 60,
+                    "endOffset": 28003
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 28008,
+                    "endColumn": 60,
+                    "endOffset": 28064
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 28069,
+                    "endColumn": 56,
+                    "endOffset": 28121
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 28126,
+                    "endColumn": 56,
+                    "endOffset": 28178
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 28183,
+                    "endColumn": 59,
+                    "endOffset": 28238
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 28243,
+                    "endColumn": 66,
+                    "endOffset": 28305
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 28310,
+                    "endColumn": 61,
+                    "endOffset": 28367
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 28372,
+                    "endColumn": 64,
+                    "endOffset": 28432
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 28437,
+                    "endColumn": 69,
+                    "endOffset": 28502
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 28507,
+                    "endColumn": 66,
+                    "endOffset": 28569
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 28574,
+                    "endColumn": 67,
+                    "endOffset": 28637
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 28642,
+                    "endColumn": 57,
+                    "endOffset": 28695
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 28700,
+                    "endColumn": 58,
+                    "endOffset": 28754
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 28759,
+                    "endColumn": 56,
+                    "endOffset": 28811
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 28816,
+                    "endColumn": 59,
+                    "endOffset": 28871
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 28876,
+                    "endColumn": 60,
+                    "endOffset": 28932
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 28937,
+                    "endColumn": 69,
+                    "endOffset": 29002
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 29007,
+                    "endColumn": 63,
+                    "endOffset": 29066
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 29071,
+                    "endColumn": 63,
+                    "endOffset": 29130
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 29135,
+                    "endColumn": 63,
+                    "endOffset": 29194
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 29199,
+                    "endColumn": 64,
+                    "endOffset": 29259
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 29264,
+                    "endColumn": 69,
+                    "endOffset": 29329
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 29334,
+                    "endColumn": 69,
+                    "endOffset": 29399
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 29404,
+                    "endColumn": 64,
+                    "endOffset": 29464
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 29469,
+                    "endColumn": 65,
+                    "endOffset": 29530
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 29535,
+                    "endColumn": 67,
+                    "endOffset": 29598
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 29603,
+                    "endColumn": 60,
+                    "endOffset": 29659
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 29664,
+                    "endColumn": 61,
+                    "endOffset": 29721
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 29726,
+                    "endColumn": 74,
+                    "endOffset": 29796
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 29801,
+                    "endColumn": 60,
+                    "endOffset": 29857
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 29862,
+                    "endColumn": 89,
+                    "endOffset": 29947
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 29952,
+                    "endColumn": 72,
+                    "endOffset": 30020
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 30025,
+                    "endColumn": 61,
+                    "endOffset": 30082
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 30087,
+                    "endColumn": 82,
+                    "endOffset": 30165
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 30170,
+                    "endColumn": 57,
+                    "endOffset": 30223
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 30228,
+                    "endColumn": 66,
+                    "endOffset": 30290
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 30295,
+                    "endColumn": 73,
+                    "endOffset": 30364
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 30369,
+                    "endColumn": 64,
+                    "endOffset": 30429
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 30434,
+                    "endColumn": 72,
+                    "endOffset": 30502
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 30507,
+                    "endColumn": 67,
+                    "endOffset": 30570
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 30575,
+                    "endColumn": 69,
+                    "endOffset": 30640
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 30645,
+                    "endColumn": 67,
+                    "endOffset": 30708
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 30713,
+                    "endColumn": 70,
+                    "endOffset": 30779
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 30784,
+                    "endColumn": 68,
+                    "endOffset": 30848
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 30853,
+                    "endColumn": 73,
+                    "endOffset": 30922
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 30927,
+                    "endColumn": 63,
+                    "endOffset": 30986
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 30991,
+                    "endColumn": 70,
+                    "endOffset": 31057
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 31062,
+                    "endColumn": 65,
+                    "endOffset": 31123
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 31128,
+                    "endColumn": 69,
+                    "endOffset": 31193
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 31198,
+                    "endColumn": 62,
+                    "endOffset": 31256
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 31261,
+                    "endColumn": 69,
+                    "endOffset": 31326
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 31331,
+                    "endColumn": 68,
+                    "endOffset": 31395
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 31400,
+                    "endColumn": 68,
+                    "endOffset": 31464
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 31469,
+                    "endColumn": 63,
+                    "endOffset": 31528
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 31533,
+                    "endColumn": 66,
+                    "endOffset": 31595
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 31600,
+                    "endColumn": 97,
+                    "endOffset": 31693
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 31698,
+                    "endColumn": 87,
+                    "endOffset": 31781
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 31786,
+                    "endColumn": 81,
+                    "endOffset": 31863
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 31868,
+                    "endColumn": 60,
+                    "endOffset": 31924
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 31929,
+                    "endColumn": 60,
+                    "endOffset": 31985
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 31990,
+                    "endColumn": 58,
+                    "endOffset": 32044
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 32049,
+                    "endColumn": 61,
+                    "endOffset": 32106
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 32111,
+                    "endColumn": 62,
+                    "endOffset": 32169
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 32174,
+                    "endColumn": 71,
+                    "endOffset": 32241
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_errors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 32246,
+                    "endColumn": 98,
+                    "endOffset": 32340
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 32345,
+                    "endColumn": 77,
+                    "endOffset": 32418
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 32423,
+                    "endColumn": 52,
+                    "endOffset": 32471
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 32476,
+                    "endColumn": 44,
+                    "endOffset": 32516
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 32521,
+                    "endColumn": 102,
+                    "endOffset": 32619
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 32624,
+                    "endColumn": 77,
+                    "endOffset": 32697
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 32702,
+                    "endColumn": 121,
+                    "endOffset": 32819
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 32824,
+                    "endColumn": 62,
+                    "endOffset": 32882
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 32887,
+                    "endColumn": 62,
+                    "endOffset": 32945
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 32950,
+                    "endColumn": 59,
+                    "endOffset": 33005
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 33010,
+                    "endColumn": 43,
+                    "endOffset": 33049
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 33054,
+                    "endColumn": 100,
+                    "endOffset": 33150
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 33155,
+                    "endColumn": 39,
+                    "endOffset": 33190
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 33195,
+                    "endColumn": 104,
+                    "endOffset": 33295
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 33300,
+                    "endColumn": 50,
+                    "endOffset": 33346
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 33351,
+                    "endColumn": 63,
+                    "endOffset": 33410
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 33415,
+                    "endColumn": 44,
+                    "endOffset": 33455
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 33460,
+                    "endColumn": 54,
+                    "endOffset": 33510
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 33515,
+                    "endColumn": 55,
+                    "endOffset": 33566
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 33571,
+                    "endColumn": 116,
+                    "endOffset": 33683
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 33688,
+                    "endColumn": 55,
+                    "endOffset": 33739
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 33744,
+                    "endColumn": 101,
+                    "endOffset": 33841
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 33846,
+                    "endColumn": 64,
+                    "endOffset": 33906
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 33911,
+                    "endColumn": 67,
+                    "endOffset": 33974
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 33979,
+                    "endColumn": 70,
+                    "endOffset": 34045
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 34050,
+                    "endColumn": 44,
+                    "endOffset": 34090
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 34095,
+                    "endColumn": 113,
+                    "endOffset": 34204
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 34209,
+                    "endColumn": 61,
+                    "endOffset": 34266
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 34271,
+                    "endColumn": 65,
+                    "endOffset": 34332
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 34337,
+                    "endColumn": 72,
+                    "endOffset": 34405
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 34410,
+                    "endColumn": 43,
+                    "endOffset": 34449
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 34454,
+                    "endColumn": 60,
+                    "endOffset": 34510
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 34515,
+                    "endColumn": 61,
+                    "endOffset": 34572
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 34577,
+                    "endColumn": 70,
+                    "endOffset": 34643
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 34648,
+                    "endColumn": 63,
+                    "endOffset": 34707
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 34712,
+                    "endColumn": 45,
+                    "endOffset": 34753
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 34758,
+                    "endColumn": 86,
+                    "endOffset": 34840
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 593,
+                    "startColumn": 4,
+                    "startOffset": 34845,
+                    "endColumn": 48,
+                    "endOffset": 34889
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 594,
+                    "startColumn": 4,
+                    "startOffset": 34894,
+                    "endColumn": 92,
+                    "endOffset": 34982
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 34987,
+                    "endColumn": 45,
+                    "endOffset": 35028
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 35033,
+                    "endColumn": 42,
+                    "endOffset": 35071
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 35076,
+                    "endColumn": 48,
+                    "endOffset": 35120
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 598,
+                    "startColumn": 4,
+                    "startOffset": 35125,
+                    "endColumn": 41,
+                    "endOffset": 35162
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 599,
+                    "startColumn": 4,
+                    "startOffset": 35167,
+                    "endColumn": 46,
+                    "endOffset": 35209
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 600,
+                    "startColumn": 4,
+                    "startOffset": 35214,
+                    "endColumn": 50,
+                    "endOffset": 35260
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 601,
+                    "startColumn": 4,
+                    "startOffset": 35265,
+                    "endColumn": 69,
+                    "endOffset": 35330
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 35335,
+                    "endColumn": 108,
+                    "endOffset": 35439
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 35444,
+                    "endColumn": 46,
+                    "endOffset": 35486
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 35491,
+                    "endColumn": 54,
+                    "endOffset": 35541
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 35546,
+                    "endColumn": 102,
+                    "endOffset": 35644
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 35649,
+                    "endColumn": 51,
+                    "endOffset": 35696
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 35701,
+                    "endColumn": 52,
+                    "endOffset": 35749
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 35754,
+                    "endColumn": 103,
+                    "endOffset": 35853
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 609,
+                    "startColumn": 4,
+                    "startOffset": 35858,
+                    "endColumn": 83,
+                    "endOffset": 35937
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 35942,
+                    "endLine": 675,
+                    "endColumn": 9,
+                    "endOffset": 37822
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_instapaper_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 676,
+                    "startColumn": 4,
+                    "startOffset": 37827,
+                    "endColumn": 54,
+                    "endOffset": 37877
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 677,
+                    "startColumn": 4,
+                    "startOffset": 37882,
+                    "endColumn": 52,
+                    "endOffset": 37930
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 678,
+                    "startColumn": 4,
+                    "startOffset": 37935,
+                    "endColumn": 52,
+                    "endOffset": 37983
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 679,
+                    "startColumn": 4,
+                    "startOffset": 37988,
+                    "endColumn": 57,
+                    "endOffset": 38041
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 680,
+                    "startColumn": 4,
+                    "startOffset": 38046,
+                    "endColumn": 50,
+                    "endOffset": 38092
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 681,
+                    "startColumn": 4,
+                    "startOffset": 38097,
+                    "endColumn": 43,
+                    "endOffset": 38136
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 682,
+                    "startColumn": 4,
+                    "startOffset": 38141,
+                    "endColumn": 54,
+                    "endOffset": 38191
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 683,
+                    "startColumn": 4,
+                    "startOffset": 38196,
+                    "endColumn": 104,
+                    "endOffset": 38296
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 684,
+                    "startColumn": 4,
+                    "startOffset": 38301,
+                    "endColumn": 52,
+                    "endOffset": 38349
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 38354,
+                    "endColumn": 101,
+                    "endOffset": 38451
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 686,
+                    "startColumn": 4,
+                    "startOffset": 38456,
+                    "endColumn": 43,
+                    "endOffset": 38495
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 687,
+                    "startColumn": 4,
+                    "startOffset": 38500,
+                    "endColumn": 85,
+                    "endOffset": 38581
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 688,
+                    "startColumn": 4,
+                    "startOffset": 38586,
+                    "endColumn": 52,
+                    "endOffset": 38634
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 689,
+                    "startColumn": 4,
+                    "startOffset": 38639,
+                    "endColumn": 42,
+                    "endOffset": 38677
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 690,
+                    "startColumn": 4,
+                    "startOffset": 38682,
+                    "endColumn": 86,
+                    "endOffset": 38764
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 691,
+                    "startColumn": 4,
+                    "startOffset": 38769,
+                    "endColumn": 44,
+                    "endOffset": 38809
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 692,
+                    "startColumn": 4,
+                    "startOffset": 38814,
+                    "endColumn": 43,
+                    "endOffset": 38853
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 693,
+                    "startColumn": 4,
+                    "startOffset": 38858,
+                    "endColumn": 59,
+                    "endOffset": 38913
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 694,
+                    "startColumn": 4,
+                    "startOffset": 38918,
+                    "endColumn": 54,
+                    "endOffset": 38968
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 695,
+                    "startColumn": 4,
+                    "startOffset": 38973,
+                    "endColumn": 46,
+                    "endOffset": 39015
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 696,
+                    "startColumn": 4,
+                    "startOffset": 39020,
+                    "endColumn": 47,
+                    "endOffset": 39063
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 697,
+                    "startColumn": 4,
+                    "startOffset": 39068,
+                    "endColumn": 49,
+                    "endOffset": 39113
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 698,
+                    "startColumn": 4,
+                    "startOffset": 39118,
+                    "endColumn": 53,
+                    "endOffset": 39167
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 699,
+                    "startColumn": 4,
+                    "startOffset": 39172,
+                    "endColumn": 57,
+                    "endOffset": 39225
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 700,
+                    "startColumn": 4,
+                    "startOffset": 39230,
+                    "endColumn": 52,
+                    "endOffset": 39278
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 701,
+                    "startColumn": 4,
+                    "startOffset": 39283,
+                    "endColumn": 60,
+                    "endOffset": 39339
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 702,
+                    "startColumn": 4,
+                    "startOffset": 39344,
+                    "endColumn": 45,
+                    "endOffset": 39385
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 703,
+                    "startColumn": 4,
+                    "startOffset": 39390,
+                    "endColumn": 57,
+                    "endOffset": 39443
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 704,
+                    "startColumn": 4,
+                    "startOffset": 39448,
+                    "endColumn": 57,
+                    "endOffset": 39501
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 705,
+                    "startColumn": 4,
+                    "startOffset": 39506,
+                    "endColumn": 54,
+                    "endOffset": 39556
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 706,
+                    "startColumn": 4,
+                    "startOffset": 39561,
+                    "endColumn": 56,
+                    "endOffset": 39613
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 707,
+                    "startColumn": 4,
+                    "startOffset": 39618,
+                    "endColumn": 52,
+                    "endOffset": 39666
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 708,
+                    "startColumn": 4,
+                    "startOffset": 39671,
+                    "endColumn": 103,
+                    "endOffset": 39770
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 709,
+                    "startColumn": 4,
+                    "startOffset": 39775,
+                    "endColumn": 46,
+                    "endOffset": 39817
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 710,
+                    "startColumn": 4,
+                    "startOffset": 39822,
+                    "endColumn": 38,
+                    "endOffset": 39856
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 711,
+                    "startColumn": 4,
+                    "startOffset": 39861,
+                    "endColumn": 83,
+                    "endOffset": 39940
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 712,
+                    "startColumn": 4,
+                    "startOffset": 39945,
+                    "endColumn": 43,
+                    "endOffset": 39984
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 713,
+                    "startColumn": 4,
+                    "startOffset": 39989,
+                    "endColumn": 43,
+                    "endOffset": 40028
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 714,
+                    "startColumn": 4,
+                    "startOffset": 40033,
+                    "endColumn": 60,
+                    "endOffset": 40089
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 715,
+                    "startColumn": 4,
+                    "startOffset": 40094,
+                    "endColumn": 55,
+                    "endOffset": 40145
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 716,
+                    "startColumn": 4,
+                    "startOffset": 40150,
+                    "endColumn": 50,
+                    "endOffset": 40196
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 717,
+                    "startColumn": 4,
+                    "startOffset": 40201,
+                    "endColumn": 55,
+                    "endOffset": 40252
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 718,
+                    "startColumn": 4,
+                    "startOffset": 40257,
+                    "endColumn": 63,
+                    "endOffset": 40316
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 719,
+                    "startColumn": 4,
+                    "startOffset": 40321,
+                    "endColumn": 48,
+                    "endOffset": 40365
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 720,
+                    "startColumn": 4,
+                    "startOffset": 40370,
+                    "endColumn": 47,
+                    "endOffset": 40413
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 721,
+                    "startColumn": 4,
+                    "startOffset": 40418,
+                    "endColumn": 51,
+                    "endOffset": 40465
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 722,
+                    "startColumn": 4,
+                    "startOffset": 40470,
+                    "endColumn": 53,
+                    "endOffset": 40519
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 723,
+                    "startColumn": 4,
+                    "startOffset": 40524,
+                    "endColumn": 50,
+                    "endOffset": 40570
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 724,
+                    "startColumn": 4,
+                    "startOffset": 40575,
+                    "endColumn": 46,
+                    "endOffset": 40617
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 725,
+                    "startColumn": 4,
+                    "startOffset": 40622,
+                    "endColumn": 48,
+                    "endOffset": 40666
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 726,
+                    "startColumn": 4,
+                    "startOffset": 40671,
+                    "endColumn": 59,
+                    "endOffset": 40726
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 727,
+                    "startColumn": 4,
+                    "startOffset": 40731,
+                    "endColumn": 45,
+                    "endOffset": 40772
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 728,
+                    "startColumn": 4,
+                    "startOffset": 40777,
+                    "endColumn": 59,
+                    "endOffset": 40832
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 40837,
+                    "endColumn": 44,
+                    "endOffset": 40877
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 40882,
+                    "endColumn": 86,
+                    "endOffset": 40964
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 731,
+                    "startColumn": 4,
+                    "startOffset": 40969,
+                    "endColumn": 52,
+                    "endOffset": 41017
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 732,
+                    "startColumn": 4,
+                    "startOffset": 41022,
+                    "endColumn": 52,
+                    "endOffset": 41070
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 733,
+                    "startColumn": 4,
+                    "startOffset": 41075,
+                    "endColumn": 59,
+                    "endOffset": 41130
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 734,
+                    "startColumn": 4,
+                    "startOffset": 41135,
+                    "endColumn": 58,
+                    "endOffset": 41189
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 735,
+                    "startColumn": 4,
+                    "startOffset": 41194,
+                    "endColumn": 50,
+                    "endOffset": 41240
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 736,
+                    "startColumn": 4,
+                    "startOffset": 41245,
+                    "endColumn": 98,
+                    "endOffset": 41339
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 737,
+                    "startColumn": 4,
+                    "startOffset": 41344,
+                    "endColumn": 41,
+                    "endOffset": 41381
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 738,
+                    "startColumn": 4,
+                    "startOffset": 41386,
+                    "endColumn": 83,
+                    "endOffset": 41465
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 739,
+                    "startColumn": 4,
+                    "startOffset": 41470,
+                    "endColumn": 51,
+                    "endOffset": 41517
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 740,
+                    "startColumn": 4,
+                    "startOffset": 41522,
+                    "endColumn": 45,
+                    "endOffset": 41563
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\ssdk_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 741,
+                    "startColumn": 4,
+                    "startOffset": 41568,
+                    "endColumn": 39,
+                    "endOffset": 41603
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 742,
+                    "startColumn": 4,
+                    "startOffset": 41608,
+                    "endColumn": 39,
+                    "endOffset": 41643
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 743,
+                    "startColumn": 4,
+                    "startOffset": 41648,
+                    "endColumn": 39,
+                    "endOffset": 41683
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 744,
+                    "startColumn": 4,
+                    "startOffset": 41688,
+                    "endColumn": 39,
+                    "endOffset": 41723
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 745,
+                    "startColumn": 4,
+                    "startOffset": 41728,
+                    "endColumn": 42,
+                    "endOffset": 41766
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 746,
+                    "startColumn": 4,
+                    "startOffset": 41771,
+                    "endColumn": 55,
+                    "endOffset": 41822
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 747,
+                    "startColumn": 4,
+                    "startOffset": 41827,
+                    "endColumn": 41,
+                    "endOffset": 41864
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 748,
+                    "startColumn": 4,
+                    "startOffset": 41869,
+                    "endLine": 749,
+                    "endColumn": 47,
+                    "endOffset": 42013
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 750,
+                    "startColumn": 4,
+                    "startOffset": 42018,
+                    "endColumn": 35,
+                    "endOffset": 42049
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 751,
+                    "startColumn": 4,
+                    "startOffset": 42054,
+                    "endColumn": 38,
+                    "endOffset": 42088
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 752,
+                    "startColumn": 4,
+                    "startOffset": 42093,
+                    "endColumn": 62,
+                    "endOffset": 42151
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 753,
+                    "startColumn": 4,
+                    "startOffset": 42156,
+                    "endColumn": 81,
+                    "endOffset": 42233
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 754,
+                    "startColumn": 4,
+                    "startOffset": 42238,
+                    "endColumn": 60,
+                    "endOffset": 42294
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 755,
+                    "startColumn": 4,
+                    "startOffset": 42299,
+                    "endColumn": 60,
+                    "endOffset": 42355
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 756,
+                    "startColumn": 4,
+                    "startOffset": 42360,
+                    "endColumn": 49,
+                    "endOffset": 42405
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 757,
+                    "startColumn": 4,
+                    "startOffset": 42410,
+                    "endColumn": 33,
+                    "endOffset": 42439
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 758,
+                    "startColumn": 4,
+                    "startOffset": 42444,
+                    "endColumn": 46,
+                    "endOffset": 42486
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 759,
+                    "startColumn": 4,
+                    "startOffset": 42491,
+                    "endColumn": 52,
+                    "endOffset": 42539
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 760,
+                    "startColumn": 4,
+                    "startOffset": 42544,
+                    "endColumn": 63,
+                    "endOffset": 42603
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 761,
+                    "startColumn": 4,
+                    "startOffset": 42608,
+                    "endColumn": 56,
+                    "endOffset": 42660
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 762,
+                    "startColumn": 4,
+                    "startOffset": 42665,
+                    "endColumn": 52,
+                    "endOffset": 42713
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 763,
+                    "startColumn": 4,
+                    "startOffset": 42718,
+                    "endColumn": 46,
+                    "endOffset": 42760
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 764,
+                    "startColumn": 4,
+                    "startOffset": 42765,
+                    "endColumn": 42,
+                    "endOffset": 42803
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 765,
+                    "startColumn": 4,
+                    "startOffset": 42808,
+                    "endColumn": 47,
+                    "endOffset": 42851
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 766,
+                    "startColumn": 4,
+                    "startOffset": 42856,
+                    "endColumn": 49,
+                    "endOffset": 42901
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 767,
+                    "startColumn": 4,
+                    "startOffset": 42906,
+                    "endLine": 773,
+                    "endColumn": 12,
+                    "endOffset": 43192
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 774,
+                    "startColumn": 4,
+                    "startOffset": 43197,
+                    "endLine": 776,
+                    "endColumn": 12,
+                    "endOffset": 43317
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 777,
+                    "startColumn": 4,
+                    "startOffset": 43322,
+                    "endLine": 780,
+                    "endColumn": 12,
+                    "endOffset": 43534
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\smssdk_styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 781,
+                    "startColumn": 4,
+                    "startOffset": 43539,
+                    "endLine": 788,
+                    "endColumn": 12,
+                    "endOffset": 43950
+                },
+                "from": {
+                    "file": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

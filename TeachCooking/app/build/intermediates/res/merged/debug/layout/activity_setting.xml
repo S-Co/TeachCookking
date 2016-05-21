@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WhiteSmoke"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:fitsSystemWindows="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/back_mine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/setting_selector"
+            android:contentDescription="@string/contentprovider"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingRight="5dp"
+            android:text="@string/setting" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:contentDescription="@string/contentprovider"
+            android:src="@drawable/ic_back"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/usuer_information"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/White"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.example.teachcooking.view.CircleImageView
+            android:id="@+id/setting_pic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/portrait"></com.example.teachcooking.view.CircleImageView>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/setting_nick_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="@string/mine_usuer_name"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/setting_usuer_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="@string/setting_usuer_phone"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/contentprovider"
+            android:src="@drawable/buy_list_arrow" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/usuer_manager"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/White"
+        android:drawableRight="@drawable/buy_list_arrow"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/usuer_manager" />
+
+    <TextView
+        android:id="@+id/change_password"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/White"
+        android:drawableRight="@drawable/buy_list_arrow"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/change_password" />
+
+    <TextView
+        android:id="@+id/share_soft_setting"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/White"
+        android:drawableRight="@drawable/buy_list_arrow"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/share_soft" />
+
+    <TextView
+        android:id="@+id/help_teachcooking"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/White"
+        android:drawableRight="@drawable/buy_list_arrow"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/help_teachcooking" />
+
+    <TextView
+        android:id="@+id/about_teachcooking"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/White"
+        android:drawableRight="@drawable/buy_list_arrow"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/about_teachcooking" />
+
+    <TextView
+        android:id="@+id/clean_cache"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/White"
+        android:drawableRight="@drawable/buy_list_arrow"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/clean_cache" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/activity_setting_log_out"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/menu_login_select"
+            android:text="@string/log_out"
+            android:textColor="@color/White" />
+    </LinearLayout>
+
+</LinearLayout>

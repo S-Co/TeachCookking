@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WhiteSmoke">
+
+    <RadioGroup
+        android:id="@+id/menu_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp" >
+
+        <RadioButton
+            android:id="@+id/menu_teach"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_teach_select"
+            android:gravity="center_horizontal"
+            android:text="@string/menu_teach"
+            android:textColor="@drawable/menu_text_select" />
+
+        <RadioButton
+            android:id="@+id/menu_basket"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_basket_select"
+            android:gravity="center_horizontal"
+            android:text="@string/menu_basket"
+            android:textColor="@drawable/menu_text_select" />
+
+        <RadioButton
+            android:id="@+id/menu_around"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_around_select"
+            android:gravity="center_horizontal"
+            android:text="@string/menu_around"
+            android:textColor="@drawable/menu_text_select" />
+
+        <RadioButton
+            android:id="@+id/menu_mine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_usuer_select"
+            android:gravity="center_horizontal"
+            android:text="@string/menu_mine"
+            android:textColor="@drawable/menu_text_select" />
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/menu_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/menu_ll" >
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout>

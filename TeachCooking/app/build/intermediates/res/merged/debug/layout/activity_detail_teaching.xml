@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WhiteSmoke"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/White"
+        android:fitsSystemWindows="true"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp" >
+
+        <ImageView
+            android:id="@+id/return_teaching"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:contentDescription="@string/contentprovider"
+            android:src="@drawable/ic_back" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbarSize="3dip"
+        android:scrollbarStyle="insideOverlay"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/detail_teaching_cookBookPic"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/detail_teaching_cookbookname"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/White"
+                android:gravity="center"
+                android:text="@string/cookbookname"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/detail_teaching_cookbookintroduce"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:background="@color/White"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:text="@string/cookbookintroduce"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/White"
+                android:orientation="vertical" >
+
+                <com.example.teachcooking.view.CircleImageView
+                    android:id="@+id/detail_teaching_publish_pic"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:src="@drawable/upload" >
+                </com.example.teachcooking.view.CircleImageView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/detail_teaching_publish_nick"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:gravity="center_vertical"
+                        android:text="@string/publish_nick" />
+
+                    <TextView
+                        android:id="@+id/detail_teaching_publish_address"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:gravity="center_vertical"
+                        android:text="@string/publish_address" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/detail_teaching_publish_createtime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="3dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/publish_createtime" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="20dp"
+                android:scaleType="centerCrop"
+                android:text="@string/material" />
+
+            <TextView
+                android:id="@+id/detail_teaching_material_preview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="20dp"
+                android:text="@string/material_preview" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="20dp"
+                android:text="@string/practice" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/one" />
+
+                <TextView
+                    android:id="@+id/detail_teaching_step1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/step1" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/detail_teaching_step1_pic"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="40dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/two" />
+
+                <TextView
+                    android:id="@+id/detail_teaching_step2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/step2" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/detail_teaching_step2_pic"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="40dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/three" />
+
+                <TextView
+                    android:id="@+id/detail_teaching_step3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/step3" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/detail_teaching_step3_pic"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="40dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/four" />
+
+                <TextView
+                    android:id="@+id/detail_teaching_step4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:text="@string/step4" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/detail_teaching_step4_pic"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="40dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="20dp"
+                android:scaleType="fitXY"
+                android:text="@string/publish_tips" />
+
+            <TextView
+                android:id="@+id/activity_detail_tips"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="3dp"
+                android:paddingLeft="20dp"
+                android:text="@string/publish_tips" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/collect_cookbook"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/collection_selector"
+            android:button="@null"
+            android:text="@string/collect_cookbook"
+            android:textColor="@color/White" />
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/join_basket"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/Red"
+            android:text="@string/join_basket"
+            android:textColor="@color/White" />
+    </LinearLayout>
+
+</LinearLayout>

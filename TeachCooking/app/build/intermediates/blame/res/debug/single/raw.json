@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cooks_classify",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\raw\\cooks_classify"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\libs",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\raw\\libs"
+    }
+]

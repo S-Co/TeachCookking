@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_pulish_product_item.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\my_pulish_product_item.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cooks_list.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_cooks_list.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basket_header.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_basket_header.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\collect_items.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\collect_items.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_publish_cookbook.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_edit_publish_cookbook.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collect.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_collect.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\publish_cookbook.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\publish_cookbook.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basket_item.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_basket_item.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_info.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_edit_info.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basket.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_basket.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\country_layout.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\country_layout.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_restaurant_detail.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_restaurant_detail.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cook_step.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_cook_step.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cook_list.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_cook_list.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_material.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_material.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cook_step_pager.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_cook_step_pager.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usuer.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_usuer.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cities_layout.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\cities_layout.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_linearlayout.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_linearlayout.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_pulish_product.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\my_pulish_product.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\production.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\production.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collect.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\fragment_collect.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_around_item.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_around_item.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_detail.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_user_detail.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_teaching.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_detail_teaching.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_collect_listview.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\empty_collect_listview.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\regiest_complete.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\regiest_complete.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cook_details.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_cook_details.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_around_footer.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_around_footer.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\tabs.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mine.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_mine.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_nearby_listview.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\empty_nearby_listview.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\fragment_all.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teaching_item.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\teaching_item.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cookbook.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\cookbook.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cook_category_gridview.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_cook_category_gridview.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_pager.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_step_pager.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cook_category.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\item_cook_category.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_auto_load_listview.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\footer_auto_load_listview.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teaching.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_teaching.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_around.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_around.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reusing_detail_layout.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\reusing_detail_layout.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manageaccount.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_manageaccount.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_pulish_cookbook.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\my_pulish_cookbook.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_cook_category.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\activity_all_cook_category.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearby.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\layout\\fragment_nearby.xml"
+    }
+]

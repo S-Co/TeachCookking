@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_width">240</string>
+    <string name="app_name">教做菜</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty_collect_listview_toast">亲！这里还是空的哦~</string>
+    <string name="title_activity_logo">LogoActivity</string>
+    <string name="delete">删除</string>
+    <string name="all_choice">全选</string>
+    <string name="dish_caiping">菜式菜品</string>
+    <string name="back">返回</string>
+    <string name="lingmeng">把柠檬汁挤出用小碗盛着，放入调味料：鱼露、精盐、鸡精、白糖（多一些白糖）沾一点尝尝，汁不要太酸也不要太甜。</string>
+    <string name="si_chuan">川菜</string>
+    <string name="one_two">1/12</string>
+    <string name="zhu_rou">猪肉剁碎,放少许盐，鲍鱼汁</string>
+    <string name="not_date">无匹配数据！</string>
+    <string name="app_slogan">吃食是一种享受,品味是一种情趣</string>
+    <!-- LogoActivity -->
+    <string name="logo_teach">教</string>
+    <string name="logo_do">做</string>
+    <string name="logo_vagetable">菜</string>
+    <!-- MenuActivity -->
+    <string name="menu_teach">教做菜</string>
+    <string name="menu_basket">菜篮</string>
+    <string name="menu_around">周边美食</string>
+    <string name="menu_mine">我</string>
+    <!-- UsuerActivity -->
+    <string name="cancle">取消</string>
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <!-- LoginActivity -->
+    <string name="contentprovider">contentprovider</string>
+    <string name="usuer_name">手机号</string>
+    <string name="usuer_password">登录密码</string>
+    <string name="forget_password">忘记密码</string>
+    <!-- registSucceed -->
+    <string name="photoAndName">头像和昵称</string>
+    <string name="tiaoguo">跳过</string>
+    <string name="complete">完成</string>
+    <string name="complete_usuer_name">请输入昵称</string>
+    <string name="toast">请完善个人资料，方便朋友认识你</string>
+    <!-- MineActivity -->
+    <string name="mine">我</string>
+    <string name="mine_usuer_name">你尚未登录</string>
+    <string name="collection">收藏</string>
+    <string name="production">作品</string>
+    <string name="cookbook">菜谱</string>
+    <string name="login_now">马上登录</string>
+    <!-- SettingActivity -->
+    <string name="setting">设置</string>
+    <string name="clean_cache">清除缓存</string>
+    <string name="setting_usuer_phone">手机号码</string>
+    <string name="usuer_manager">账号管理</string>
+    <string name="change_password">修改密码</string>
+    <string name="share_soft">把教做菜告诉朋友</string>
+    <string name="log_out">退出登录</string>
+    <string name="help_teachcooking">帮助</string>
+    <string name="about_teachcooking">关于</string>
+    <!-- EditInfoActivity -->
+    <string name="edit_info">编辑个人资料</string>
+    <string name="save">保存</string>
+    <string name="uploading_pic">上传头像</string>
+    <string name="edit_nick">手机用户</string>
+    <!-- AroundActivity -->
+    <string name="around">周边饭店</string>
+    <string name="r_name">Home Garden</string>
+    <string name="r_navigation">中山公园</string>
+    <string name="r_tags">意大利菜</string>
+    <string name="r_avg_price">￥103/人</string>
+    <string name="r_distance"> 1000m </string>
+    <string name="loading">正在玩命加载....</string>
+    <string name="please_retry">点击重试</string>
+    <string name="load_failed_please_retry">加载失败，请点击重试</string>
+    <string name="plese_check_internet">请检查你的网络</string>
+    <string name="load_restaurant">玩命加载中</string>
+    <!-- RestaurantDetailActivity -->
+    <string name="product_rating">口味:9.1</string>
+    <string name="enviroment_rating">环境:9.1</string>
+    <string name="service_rating">服务:9.1</string>
+    <string name="restaurant_address">营福巷109号</string>
+    <string name="restaurant_phone">18111657196</string>
+    <string name="friend_commend">网友推荐</string>
+    <string name="recommended_dishes">呛爆极品掌中宝 香秘馋嘴小龙虾 喷火小鸡翅尖尖 曾祖母腊肉糯米饭 炒炒炒辣蟹 藤椒泼妇鸭舌 口口脆现爆兔肚 翻滚吧猪黄喉</string>
+    <!-- TeachActivity -->
+    <string name="search">菜谱、食材</string>
+    <string name="cookbookname">铁板牛柳</string>
+    <string name="cookbookintroduce">好吃的一逼，简单的那个逼样</string>
+    <string name="publish_usuername">隔壁的老王</string>
+    <string name="cookbooks">菜谱分类</string>
+    <string name="breakfast">—— 早餐 ——</string>
+    <string name="lunch">—— 午餐 ——</string>
+    <string name="dinner">—— 晚餐 ——</string>
+    <string name="footer_text">玩命加载中。。。</string>
+    <string name="publish_time">发布于2016年3月15日</string>
+    <string name="refresh">向下滑刷新</string>
+    <!-- PublishActivity -->
+    <string name="publish">发布</string>
+    <string name="pb_cb_name"></string>
+    <string name="publish_name">菜谱名称</string>
+    <string name="material">用料</string>
+    <string name="publish_simple_intro">添加简介</string>
+    <string name="publish_material">添加用料</string>
+    <string name="publish_tips">小贴士</string>
+    <string name="add_step">添加步骤</string>
+    <string name="add_tips">添加小贴士</string>
+    <string name="practice">做法</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <!-- TeachDetailActivity -->
+    <string name="publish_nick">偏离,于</string>
+    <string name="publish_address">墨尔本</string>
+    <string name="publish_createtime">创建于2016.03.15</string>
+    <string name="material_preview">雪碧 蔓越莓 青柠檬 </string>
+    <string name="step1">step1</string>
+    <string name="step2">step2</string>
+    <string name="step3">step3</string>
+    <string name="step4">step4</string>
+    <string name="collect_cookbook">收藏</string>
+    <string name="join_basket">丢进菜篮子</string>
+    <!-- UserDetailActivity -->
+    <string name="user_detail_join_time">2012年03月08日加入</string>
+    <string name="user_detail_infor">用户个人资料</string>
+    <string name="user_sexandadress">男，四川成都</string>
+    <string name="user_introduce">因为喜欢吃，所以喜欢下厨房</string>
+    <!-- BasketActivity -->
+    <string name="basket">菜篮子</string>
+    <string name="basket_clear">清空</string>
+    <string name="add_basket_number">已添加 0 个</string>
+    <string name="basket_material">茄子						3根</string>
+    <!-- EditUserInfoActivity -->
+    <string name="edit_info_birthday">生日</string>
+    <string name="sex_man">男</string>
+    <string name="sex_women">女</string>
+    <string name="edit_home">家乡</string>
+    <string name="edit_self_introduce">个人简介</string>
+    <string name="sure_change">确定</string>
+    <!-- ManageAccountActivity -->
+    <string name="manageaccount">账号管理</string>
+    <string name="managePhoneNumber">手机号</string>
+    <string name="manageSina">新浪微博</string>
+    <string name="manageQQ">QQ</string>
+    <string name="managedouban">豆瓣</string>
+    <string name="manageyinxiang">印象</string>
+    <string name="noneopen">暂未开放</string>
+    <string name="bindaccount">绑定以上账号，可以用它们登录教做菜，并发现更多好友</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <!-- AboutActivity -->
+    <string name="about_version">版本号</string>
+    <string name="about">关于</string>
+    <string name="can_not_find_version_name">没有找到版本号</string>
+
+    <string-array name="spingarr">
+        <item>早餐</item>
+        <item>午餐</item>
+        <item>晚餐</item>
+    </string-array>
+
+    <!-- CollectActivity -->
+    <string name="mine_collect">我的收藏</string>
+    <string name="mine_collect_cookbook">收藏的菜谱</string>
+    <string name="title_activity_change_password">ChangePasswordActivity</string>
+    <!-- ChangePasswordActivity -->
+    <string name="input_password_agin">再次输入密码</string>
+    <string name="sure_change_password">确定修改密码</string>
+    <string name="input_password">输入密码</string>
+    <string name="input_after_password">输入原密码</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <!-- HelpActivity -->
+    <string name="help">帮助</string>
+    <string name="teachcooking_help">教做菜首页小提示.										（一）在主界面向下滑可以刷新（二）主界面可以搜索菜谱（三）主界面左上角的按键可以发布菜谱
+    （四）主界面右上角的按钮是搜索按钮（五）主界面可以查看早中晚推荐菜谱</string>
+    <string name="basket_help">菜篮子页面提示，（一）在菜篮子可以查看需要购买的材料（二）可以加入重复的菜谱（三）点击菜谱名字可以查看菜谱详情
+        （四）单击右上角的按钮可以清空菜篮</string>
+    <string name="around_help">周边饭店提示，（一）在饭店详情页面单机电话号码可以跳转到拨号页面，暂未修复两个号码的BUG（二）点击地址可以导航到该地点
+            ，但是此功能存在BUG，需要打开地图软件，再点击才能进行导航，因此加入了长按可以复制该地址的功能。</string>
+    <string name="mine_help">我的界面，没什么好说的。。。。</string>
+
+</resources>

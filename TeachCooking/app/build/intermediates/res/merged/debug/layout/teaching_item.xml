@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/cookbookname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/cookbookname"
+        android:textColor="@color/Orange"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/cookBookPic"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:contentDescription="@string/contentprovider"
+        android:scaleType="centerCrop"
+        android:src="@drawable/cookbookphoto" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.example.teachcooking.view.CircleImageView
+            android:id="@+id/publish_pic"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/upload" >
+        </com.example.teachcooking.view.CircleImageView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/publish_usuername"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/publish_usuername"
+                android:textColor="@color/LightGrey"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/publish_time"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:text="@string/publish_time"
+                android:textColor="@color/LightGrey"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

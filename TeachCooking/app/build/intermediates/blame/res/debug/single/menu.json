@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\help.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\change_password.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\change_password.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_publish_cookbook.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\edit_publish_cookbook.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\logo.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\logo.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\collect.xml",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\menu\\collect.xml"
+    }
+]

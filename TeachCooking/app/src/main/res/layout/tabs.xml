@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <CheckedTextView
+            android:id="@+id/tab_all"
+            style="@style/tab_text_style"
+            android:background="@drawable/selector_tab_bg"
+            android:checked="true"
+            android:text="全部菜谱" />
+
+        <View
+            android:layout_width="0.1dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/vircal_line" />
+
+        <CheckedTextView
+            android:id="@+id/tab_nearby"
+            style="@style/tab_text_style"
+            android:text="最近浏览" />
+
+        <View
+            android:layout_width="0.1dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/vircal_line" />
+
+        <CheckedTextView
+            android:id="@+id/tab_collect"
+            style="@style/tab_text_style"
+            android:text="我的收藏" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/vircal_line" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_alignParentBottom="true" >
+
+        <com.example.teachcooking.view.SlidingView
+            android:id="@+id/slidingView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <View
+                android:id="@+id/tag_view"
+                android:layout_width="100dp"
+                android:layout_height="2dp"
+                android:background="#ff0000" />
+        </com.example.teachcooking.view.SlidingView>
+    </FrameLayout>
+
+</RelativeLayout>

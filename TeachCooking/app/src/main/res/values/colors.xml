@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="WhiteSmoke">#fff5f5f5</color>
+    <color name="Red">#ffff0000</color>
+    <color name="DeepSkyBlue">#ff00bfff</color>
+    <color name="Orange">#ffffa500</color>
+    <color name="DarkGray">#ffa9a9a9</color>
+    <color name="DarkRed">#ff8b0000</color>
+    <color name="Chocolate">#ffd2691e</color>
+    <color name="DarkOrange">#ffff8c00</color>
+    <color name="SpringGreen">#3CB371</color>
+    <color name="Black">#ff000000</color>
+    <color name="SaddleBrown">#ff8b4513</color>
+    <color name="White">#ffffffff</color>
+    <color name="LightGrey">#ffd3d3d3</color>
+    <color name="Gainsboro">#ffdcdcdc</color>
+    <color name="Wheat">#fff5deb3</color>
+    <color name="Grey">#ff808080</color>
+    <color name="Peru">#ffcd853f</color>
+    <color name="Tan">#ffd2b48c</color>
+    <color name="Brown">#ff663300</color>
+    <color name="item_linearlayout_bg_n">#EFEAE8</color>
+    <color name="item_linearlayout_bg_p">#CCDEB887</color>
+    <color name="item_linearlayout_bg_s">#9FB6CD</color>
+    <color name="horizontal_tab_n">#000000</color>
+    <color name="horizontal_tab_s">#ff0000</color>
+    <color name="item_main_bg_n">#EFEAE8</color>
+    <color name="item_main_bg_p">#44DEB887</color>
+    <color name="tab_bg_n">#00000000</color>
+    <color name="tab_bg_p">#DEB887</color>
+    <color name="vircal_line">#44444444</color>
+    <color name="tab_text_n">#BB575757</color>
+    <color name="tab_text_checked">#CD2626</color>
+    <color name="btn_black_n">#444444</color>
+    <color name="btn_black_p">#4D4D4D</color>
+
+</resources>

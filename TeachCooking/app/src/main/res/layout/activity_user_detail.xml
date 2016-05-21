@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WhiteSmoke"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:fitsSystemWindows="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/return_teaching"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/setting_selector"
+            android:contentDescription="@string/contentprovider"
+            android:padding="10dp"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:paddingRight="5dp"
+            android:text="@string/user_detail_infor"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/setting_selector"
+            android:contentDescription="@string/contentprovider"
+            android:padding="10dp"
+            android:src="@drawable/right_page_setting"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.example.teachcooking.view.CircleImageView
+            android:id="@+id/user_detail_pic"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/portrait" >
+        </com.example.teachcooking.view.CircleImageView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/user_detail_nick"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:gravity="center_horizontal"
+                android:text="@string/publish_nick"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/user_sexandadress"
+                android:layout_width="match_parent"
+                android:gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:text="@string/user_sexandadress" />
+
+            <TextView
+                android:id="@+id/user_detail_join_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:gravity="center_horizontal"
+                android:text="@string/user_detail_join_time"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/user_introduce"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="@string/user_introduce"
+        android:textSize="15sp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/LightGrey"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp" >
+
+        <RadioButton
+            android:id="@+id/user_production"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center_horizontal"
+            android:text="@string/production"
+            android:textColor="@drawable/menu_text_select" />
+
+        <RadioButton
+            android:id="@+id/user_cookbook"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center_horizontal"
+            android:text="@string/cookbook"
+            android:textColor="@drawable/menu_text_select" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/usuer_production_buttom"
+            android:layout_width="0dp"
+            android:layout_height="3dp"
+            android:layout_weight="1"
+            android:background="@color/DarkOrange" />
+
+        <TextView
+            android:id="@+id/usuer_cookbook_buttom"
+            android:layout_width="0dp"
+            android:layout_height="3dp"
+            android:layout_weight="1"
+            android:background="@color/White" />
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/user_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="3dp"
+        android:numColumns="3"
+        android:verticalSpacing="3dp"
+        android:visibility="visible" >
+    </GridView>
+
+    <ListView
+        android:id="@+id/user_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+    </ListView>
+
+</LinearLayout>

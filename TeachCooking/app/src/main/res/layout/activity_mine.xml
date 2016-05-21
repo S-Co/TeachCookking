@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WhiteSmoke"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:fitsSystemWindows="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/contentprovider"
+            android:padding="10dp"
+            android:src="@drawable/ic_back"
+            android:visibility="invisible" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:paddingRight="5dp"
+            android:text="@string/mine"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/mine_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/setting_selector"
+            android:contentDescription="@string/contentprovider"
+            android:padding="10dp"
+            android:src="@drawable/right_page_setting" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.example.teachcooking.view.CircleImageView
+            android:id="@+id/mine_pic"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/portrait" >
+        </com.example.teachcooking.view.CircleImageView>
+
+        <TextView
+            android:id="@+id/mine_usuer_name"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center_horizontal"
+            android:text="@string/mine_usuer_name"
+            android:textColor="@color/Black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/login_now"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/menu_login_select"
+            android:text="@string/login_now"
+            android:textColor="@color/White" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/collection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:drawableRight="@drawable/gray_star_enabled"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:text="@string/collection"
+        android:textSize="15sp" />
+
+    <RadioGroup
+        android:id="@+id/mine_rg"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/White"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/mine_production"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center_horizontal"
+            android:text="@string/production"
+            android:textColor="@drawable/menu_text_select" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/Black" />
+
+        <RadioButton
+            android:id="@+id/mine_cookbook"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center_horizontal"
+            android:text="@string/cookbook"
+            android:textColor="@drawable/menu_text_select" />
+    </RadioGroup>
+
+    <GridView
+        android:id="@+id/mine_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="3dp"
+        android:numColumns="3"
+        android:verticalSpacing="3dp"
+        android:visibility="visible" >
+    </GridView>
+
+    <ListView
+        android:id="@+id/mine_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+    </ListView>
+
+</LinearLayout>

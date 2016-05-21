@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\teach.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\teach.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\usuer_selected.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\usuer_selected.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\basket.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\basket.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\around_selected.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\around_selected.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\around.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\around.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\teach_selected.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\teach_selected.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\basket_selected.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\basket_selected.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\camera_big.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\camera_big.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspac1\\TeachCooking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\usuer.png",
+        "source": "D:\\workspac1\\TeachCooking\\app\\src\\main\\res\\drawable-xxhdpi\\usuer.png"
+    }
+]

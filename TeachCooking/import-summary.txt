@@ -1,0 +1,93 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+gson-2.2.2.jar => com.google.code.gson:gson:2.2.2
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.2.jar => version 2.2.2 in com.google.code.gson:gson:2.2.2
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\armeabi\libBaiduMapSDK_base_v3_7_1.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_base_v3_7_1.so
+* libs\armeabi\libBaiduMapSDK_util_v3_7_1.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_util_v3_7_1.so
+* libs\armeabi\libJuheSDK_v_1_2.so => app\src\main\jniLibs\armeabi\libJuheSDK_v_1_2.so
+* libs\armeabi\liblocSDK6a.so => app\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\baidumapapi_base_v3_7_1.jar => app\libs\baidumapapi_base_v3_7_1.jar
+* libs\baidumapapi_util_v3_7_1.jar => app\libs\baidumapapi_util_v3_7_1.jar
+* libs\Bmob_Push_V0.6beta_20150408.jar => app\libs\Bmob_Push_V0.6beta_20150408.jar
+* libs\BmobSDK_V3.4.5_1111.jar => app\libs\BmobSDK_V3.4.5_1111.jar
+* libs\fastjson-1.1.26.jar => app\libs\fastjson-1.1.26.jar
+* libs\locSDK_6.22.jar => app\libs\locSDK_6.22.jar
+* libs\MobCommons-2016.0131.1739.jar => app\libs\MobCommons-2016.0131.1739.jar
+* libs\MobTools-2016.0131.1739.jar => app\libs\MobTools-2016.0131.1739.jar
+* libs\okhttp-2.4.0.jar => app\libs\okhttp-2.4.0.jar
+* libs\okio-1.4.0.jar => app\libs\okio-1.4.0.jar
+* libs\ShareSDK-Core-2.7.0.jar => app\libs\ShareSDK-Core-2.7.0.jar
+* libs\ShareSDK-Email-2.7.0.jar => app\libs\ShareSDK-Email-2.7.0.jar
+* libs\ShareSDK-QQ-2.7.0.jar => app\libs\ShareSDK-QQ-2.7.0.jar
+* libs\ShareSDK-QZone-2.7.0.jar => app\libs\ShareSDK-QZone-2.7.0.jar
+* libs\ShareSDK-ShortMessage-2.7.0.jar => app\libs\ShareSDK-ShortMessage-2.7.0.jar
+* libs\ShareSDK-SinaWeibo-2.7.0.jar => app\libs\ShareSDK-SinaWeibo-2.7.0.jar
+* libs\ShareSDK-TencentWeibo-2.7.0.jar => app\libs\ShareSDK-TencentWeibo-2.7.0.jar
+* libs\ShareSDK-Wechat-2.7.0.jar => app\libs\ShareSDK-Wechat-2.7.0.jar
+* libs\ShareSDK-Wechat-Core-2.7.0.jar => app\libs\ShareSDK-Wechat-Core-2.7.0.jar
+* libs\ShareSDK-Wechat-Favorite-2.7.0.jar => app\libs\ShareSDK-Wechat-Favorite-2.7.0.jar
+* libs\ShareSDK-Wechat-Moments-2.7.0.jar => app\libs\ShareSDK-Wechat-Moments-2.7.0.jar
+* libs\slidingmenulibary.jar => app\libs\slidingmenulibary.jar
+* libs\SMSSDK-2.0.1.jar => app\libs\SMSSDK-2.0.1.jar
+* libs\x86_64\libBaiduMapSDK_base_v3_7_1.so => app\src\main\jniLibs\x86_64\libBaiduMapSDK_base_v3_7_1.so
+* libs\x86_64\libBaiduMapSDK_util_v3_7_1.so => app\src\main\jniLibs\x86_64\libBaiduMapSDK_util_v3_7_1.so
+* libs\x86_64\libJuheSDK_v_1_2.so => app\src\main\jniLibs\x86_64\libJuheSDK_v_1_2.so
+* libs\x86_64\liblocSDK6a.so => app\src\main\jniLibs\x86_64\liblocSDK6a.so
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

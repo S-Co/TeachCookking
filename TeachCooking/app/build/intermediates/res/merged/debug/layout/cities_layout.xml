@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <kankan.wheel.widget.WheelView
+            android:id="@+id/country"
+            android:layout_width="0dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1" />
+
+        <kankan.wheel.widget.WheelView
+            android:id="@+id/city"
+            android:layout_width="0dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="3dp" >
+
+        <Button
+            android:id="@+id/sure_change"
+            style="?android:attr/button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_btn_red"
+            android:text="@string/sure_change" />
+
+        <Button
+            android:id="@+id/cancle"
+            style="?android:attr/button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_btn_red"
+            android:text="@string/cancle" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="290dp"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/my_publish_cookBookPic"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:contentDescription="@string/contentprovider"
+        android:scaleType="centerCrop" />
+
+    <com.example.teachcooking.view.CircleImageView
+        android:id="@+id/my_publish_pic"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="190dp"
+        android:src="@drawable/upload" >
+    </com.example.teachcooking.view.CircleImageView>
+
+    <TextView
+        android:id="@+id/my_publish_cookbookname"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_below="@id/my_publish_cookBookPic"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="@string/cookbookname"
+        android:textColor="@color/Black"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/my_publish_nick"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/my_publish_pic"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:text="@string/publish_nick" />
+
+</RelativeLayout>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarSize="3dip"
+    android:scrollbarStyle="insideOverlay"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/cookBookphoto"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/LightGrey"
+            android:contentDescription="@string/contentprovider"
+            android:scaleType="centerCrop"
+            android:src="@drawable/camera_big" />
+
+
+            <TextView
+                android:id="@+id/publish_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center_vertical"
+                android:hint="@string/publish_name"
+                android:drawableRight="@drawable/edit"
+                android:textColor="@color/Black"
+                android:textColorHint="@color/LightGrey"
+                android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/add_simple_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/publish_simple_intro"
+            android:textColor="@color/Black"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/material"
+            android:textColor="@color/Black" />
+
+        <TextView
+            android:id="@+id/add_material"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/publish_material"
+            android:textColor="@color/Black"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/practice"
+            android:textColor="@color/Black" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/one"
+                android:textColor="@color/Black" />
+
+            <ImageView
+                android:id="@+id/step1_pic"
+                android:layout_width="140dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/add_step1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dip"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/add_step"
+            android:textColor="@color/Black"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/two"
+                android:textColor="@color/Black" />
+
+            <ImageView
+                android:id="@+id/step2_pic"
+                android:layout_width="140dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/add_step2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/add_step"
+            android:textColor="@color/Black"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/three"
+                android:textColor="@color/Black" />
+
+            <ImageView
+                android:id="@+id/step3_pic"
+                android:layout_width="140dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/add_step3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/add_step"
+            android:textColor="@color/Black"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/four"
+                android:textColor="@color/Black" />
+
+            <ImageView
+                android:id="@+id/step4_pic"
+                android:layout_width="140dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/LightGrey"
+                android:contentDescription="@string/contentprovider"
+                android:scaleType="centerCrop"
+                android:src="@drawable/camera_big" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/add_step4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/add_step"
+            android:textColor="@color/Black"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/publish_tips"
+            android:textColor="@color/Black" />
+
+        <TextView
+            android:id="@+id/tips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/add"
+            android:gravity="center_vertical"
+            android:hint="@string/add_tips"
+            android:textColorHint="@color/LightGrey"
+            android:textSize="12sp" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/spingarr"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/pulish"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/Red"
+            android:text="@string/publish"
+            android:textColor="@color/White" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+    </LinearLayout>
+
+</ScrollView>

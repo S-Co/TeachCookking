@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loading_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:visibility="visible" >
+
+    <com.example.teachcooking.view.LoadingImgView
+        android:id="@+id/loading_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/loading_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/load_failed_please_retry"
+        android:textColor="#66444444"
+        android:textSize="17sp"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/loading_reload_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@drawable/selector_btn_red"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:text="@string/please_retry"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:visibility="invisible" />
+
+</LinearLayout>

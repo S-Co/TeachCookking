@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WhiteSmoke" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+
+        <TextView
+            android:id="@+id/logo_teach"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/logo_teach"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/DeepSkyBlue"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/logo_do"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/logo_teach"
+            android:text="@string/logo_do"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/Red"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/logo_cooking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/logo_do"
+            android:text="@string/logo_vagetable"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/Orange"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/app_slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="@string/app_slogan"
+        android:textColor="@color/DarkGray"
+        android:textSize="20sp" />
+
+</RelativeLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\workspac1\TeachCooking\app\src\main\assets"><file name="province.db" path="D:\workspac1\TeachCooking\app\src\main\assets\province.db"/><file name="ShareSDK.xml" path="D:\workspac1\TeachCooking\app\src\main\assets\ShareSDK.xml"/></source></dataSet><dataSet config="debug"><source path="D:\workspac1\TeachCooking\app\src\debug\assets"/></dataSet></merger>
